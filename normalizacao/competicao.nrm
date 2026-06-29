@@ -1,0 +1,3 @@
+id_competicao,nome,data_inicio,cidade,uf,data_fim
+
+id_competicao -> nome,data_inicio,cidade,uf,data_fim

@@ -1,0 +1,3 @@
+id_movimentacao,valor_unitario,quantidade_movimentada,data_hora,tipo_movimento,motivo_movimento,id_alimento,id_medicamento
+
+id_movimentacao -> valor_unitario,quantidade_movimentada,data_hora,tipo_movimento,motivo_movimento,id_alimento,id_medicamento

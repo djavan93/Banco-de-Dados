@@ -1,0 +1,3 @@
+id_treino,status,observacoes,data_hora_fim,data_hora_inicio,desempenho,id_equino,id_pessoa
+
+id_treino -> status,observacoes,data_hora_fim,data_hora_inicio,desempenho,id_equino,id_pessoa

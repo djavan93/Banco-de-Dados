@@ -1,0 +1,5 @@
+id,nome,data_nascimento,cpf,is_gerente,email,senha
+
+questao1,id -> nome,data_nascimento,is_gerente,cpf,email,senha
+cpf -> id,nome,data_nascimento,is_gerente,email,senha
+email -> id,nome,data_nascimento,cpf,is_gerente,email,senha

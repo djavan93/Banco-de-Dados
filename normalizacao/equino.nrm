@@ -1,0 +1,4 @@
+id_equino,nome,raca,peso,funcao,data_nascimento,status,registro,registro_pai,registro_mae,pelagem
+
+exemplo2,id_equino -> nome,raca,peso,funcao,data_nascimento,status,registro,registro_pai,registro_mae,pelagem
+registro -> id_equino,nome,raca,peso,funcao,data_nascimento,status,registro_pai,registro_mae,pelagem

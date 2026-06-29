@@ -1,0 +1,3 @@
+id_atendimento,valor,data_hora,diagnostico,motivo,id_pessoa,id_equino
+
+id_atendimento -> valor,data_hora,diagnostico,motivo,id_pessoa,id_equino

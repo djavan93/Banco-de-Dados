@@ -1,0 +1,4 @@
+id_senha,numero,valor,id_pessoa,id_categoria,id_equino,id_competicao
+
+id_senha -> numero,valor,id_pessoa,id_categoria,id_equino,id_competicao
+numero,id_competicao,id_categoria -> id_senha,valor,id_pessoa,id_equino
